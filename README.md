@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksei Eliseev
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Python, Django, Flask
-- 📫 How to reach me: alexseeffwork@gmail.com, telegram - @NiatpacBlack
+- 📫 How to reach me: alexseeffwork@gmail.com, telegram - @Niatpacblack
 
 <!---
 NiatpacBlack/NiatpacBlack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
