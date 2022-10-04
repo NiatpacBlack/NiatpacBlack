@@ -44,7 +44,7 @@
 
 <h2 align="center">Github Stats</h2>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiatpacBlack&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiatpacBlack&layout=compact" align="center"></div>  
 
 <br/>
 
