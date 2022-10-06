@@ -42,18 +42,16 @@
 
 </tr></table>  
 
-<h2 align="center">Github Stats</h2>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiatpacBlack&layout=compact" align="center"></div>  
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NiatpacBlack&&style=flat-square" align="center" />
-</div>  
+<h2 align="center">Stats</h2>
 
 <br/> 
 <div align="center">
 <a href="https://wakatime.com/@83f8d99e-e577-4fba-a1f5-b81a84f8d868"><img src="https://wakatime.com/badge/user/83f8d99e-e577-4fba-a1f5-b81a84f8d868.svg" alt="Total time coded since Sep 29 2022" /></a>
 </div>
-<br/> 
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NiatpacBlack&&style=flat-square" align="center" />
+</div>  
+
+
