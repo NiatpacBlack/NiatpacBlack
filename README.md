@@ -43,11 +43,18 @@
 </tr></table>  
 
 <h2 align="center">Stats</h2>
+<br/>  
+
+<div align="center">
+<a href=https://www.codewars.com/users/NiatpacKcalb><img src="https://www.codewars.com/users/NiatpacKcalb/badges/micro" alt="" /></a>
+</div>
 
 <br/> 
+
 <div align="center">
 <a href="https://wakatime.com/@83f8d99e-e577-4fba-a1f5-b81a84f8d868"><img src="https://wakatime.com/badge/user/83f8d99e-e577-4fba-a1f5-b81a84f8d868.svg" alt="Total time coded since Sep 29 2022" /></a>
 </div>
+
 <br/>  
 
 <div align="center">
