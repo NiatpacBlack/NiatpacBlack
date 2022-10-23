@@ -46,7 +46,7 @@
 <br/>  
 
 <div align="center">
-<a href=https://www.codewars.com/users/NiatpacKcalb><img src="https://www.codewars.com/users/NiatpacKcalb/badges/large"" /></a>
+<a href=https://www.codewars.com/users/NiatpacKcalb><img src="https://www.codewars.com/users/NiatpacKcalb/badges/small"" /></a>
 </div>
 
 <br/> 
