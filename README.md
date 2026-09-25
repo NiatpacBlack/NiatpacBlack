@@ -22,6 +22,6 @@ Python is my main programming language. I use it to automate tasks at work and b
 
 Outside of engineering, I read philosophy and literature, write fiction, and enjoy photography.
 
-[Telegram](https://t.me/niatpackcalb)
+[Telegram](https://t.me/nialbatcpak)
 
 </div>  
